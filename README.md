@@ -1,8 +1,11 @@
 # ShopVista-Retail-Intelligence-End-to-End-Data-Pipeline [Data Engineering using Spark & Azure Databricks]
 
 
-# Project Overview 
+# Project Overview & Scope of Work
 
+
+
+Doc : 
 
 ---
 
@@ -69,13 +72,15 @@ er g4wersf
 # Job Orchestration & Automation
 # Daily Refresh Pipeline
 
+<img width="6000" height="3375" alt="Image" src="https://github.com/user-attachments/assets/3395b324-552c-4533-9639-9e0adb2e1d83" />
+
 
 ---
 
-# Analytics & Report 
+# Analytics & Report
+
+<img width="4150" height="2400" alt="Image" src="https://github.com/user-attachments/assets/f4ac2c1b-a7d1-4970-8b13-7ccd03231aa4" />
 
 
-
-
-
+---
 
