@@ -55,19 +55,13 @@ The solution follows a modern cloud-native architecture built on Microsoft Azure
 
 Data Flow
 
-ShopVista Source Systems
-⬇
-Azure Data Lake Storage Gen2 (Raw Data Storage)
-⬇
-Azure Databricks + Unity Catalog
-⬇
-Bronze Layer (Raw Data)
-⬇
-Silver Layer (Cleaned & Standardized Data)
-⬇
-Gold Layer (Business Ready Data Models)
-⬇
-Power BI Reporting Layer
+- ShopVista Source Systems
+- Azure Data Lake Storage Gen2 (Raw Data Storage)
+- Azure Databricks + Unity Catalog
+- Bronze Layer (Raw Data)
+- Silver Layer (Cleaned & Standardized Data)
+- Gold Layer (Business Ready Data Models)
+- Power BI Reporting Layer
 
 This architecture provides scalability, governance, automation, and high-performance analytics.
 
@@ -120,7 +114,6 @@ The ShopVista Retail Intelligence Platform demonstrates how modern cloud technol
 
 
 All cloud resources required for the project were provisioned and managed within a centralized Azure Resource Group.
-
 The resource group acts as the operational boundary for managing infrastructure components including:
 
 Azure Databricks Workspace
