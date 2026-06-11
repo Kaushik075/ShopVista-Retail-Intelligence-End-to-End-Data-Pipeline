@@ -27,21 +27,18 @@ Doc : [shopvista_scope_of_work.pdf](https://github.com/user-attachments/files/28
 <img width="8107" height="3420" alt="Image" src="https://github.com/user-attachments/assets/7471c7fd-1432-4dd6-949b-4c95ce535d37" />
 
 Azure-based Medallion Architecture (Bronze → Silver → Gold) built using ADLS Gen2, Unity Catalog, and Azure Databricks. Raw e-commerce data is centralized in Azure Data Lake, transformed through ETL/ELT pipelines, and published as analytics-ready datasets for Power BI reporting.
+
+---
+
 .
-Key Achievements :
+# Key Achievements :
 
 ✔ Built Bronze, Silver and Gold data layers
-
 ✔ Processed raw retail data using PySpark ETL pipelines
-
 ✔ Implemented Medallion Architecture in Databricks
-
 ✔ Automated daily refresh workflows
-
 ✔ Created dimensional and fact tables for analytics
-
 ✔ Connected Power BI directly to Gold Layer tables
-
 ✔ Developed executive-level retail intelligence dashboard
 
 
@@ -64,9 +61,15 @@ Key Achievements :
 
 
 # Azure Resource 
+
+
 <img width="1641" height="670" alt="Image" src="https://github.com/user-attachments/assets/82e0b19e-f62c-49a5-bbe0-7fce665bf485" />
 
+
+
 Provisioned Azure resources including Storage Accounts, Azure Data Lake Storage Gen2, Databricks Workspace, Unity Catalog, and secure access configurations required for building a scalable cloud-native data platform.
+
+
 
 ---
 
@@ -74,17 +77,26 @@ Provisioned Azure resources including Storage Accounts, Azure Data Lake Storage 
 
 # Azure Data Lake 
 
+
+
 <img width="637" height="659" alt="Image" src="https://github.com/user-attachments/assets/55ca40cf-0640-41b4-a80d-d15c4bbe424e" />
+
+
 
 Centralized enterprise data lake used as the landing zone for raw source files. Implements a structured folder hierarchy supporting Bronze, Silver, and Gold layers for governed data processing and storage.
 
 
 ---
 
+
 # Storage Account 
 <img width="1623" height="903" alt="Image" src="https://github.com/user-attachments/assets/94617bf9-77d5-48f5-80c5-e6b5e880f597" />
 
+
+
 Configured Azure Storage Account hosting ADLS Gen2 containers for raw, processed, and curated datasets. Provides scalable storage, secure access control, and seamless integration with Azure Databricks.
+
+
 
 --- 
 
@@ -92,11 +104,14 @@ Configured Azure Storage Account hosting ADLS Gen2 containers for raw, processed
 <img width="1918" height="850" alt="Image" src="https://github.com/user-attachments/assets/67089996-52ff-4ffe-b22f-b842699cb47c" />
 
 
+
+
 ---
 
 
 # Medallion Architecture - Data Layers [Bronze & Silver]
 <img width="6000" height="3375" alt="Image" src="https://github.com/user-attachments/assets/0ae52826-7ef8-4a78-afb0-991bee31ec81" />
+
 
 Bronze Layer --
 
