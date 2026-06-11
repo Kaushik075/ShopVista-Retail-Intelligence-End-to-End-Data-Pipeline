@@ -51,7 +51,10 @@ er g4wersf
 --- 
 
 # SQL Warehouse 
+<img width="1918" height="850" alt="Image" src="https://github.com/user-attachments/assets/67089996-52ff-4ffe-b22f-b842699cb47c" />
 
+
+---
 
 
 # Medallion Architecture - Data Layers [Bronze & Silver]
