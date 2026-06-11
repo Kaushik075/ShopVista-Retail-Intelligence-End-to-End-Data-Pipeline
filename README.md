@@ -68,7 +68,6 @@ This architecture provides scalability, governance, automation, and high-perform
 
 ---
 
-.
 # Project Outcomes
 
 Business Impact --
