@@ -34,12 +34,19 @@ Azure-based Medallion Architecture (Bronze → Silver → Gold) built using ADLS
 # Key Achievements :
 
 ✔ Built Bronze, Silver and Gold data layers
+
 ✔ Processed raw retail data using PySpark ETL pipelines
+
 ✔ Implemented Medallion Architecture in Databricks
+
 ✔ Automated daily refresh workflows
+
 ✔ Created dimensional and fact tables for analytics
+
 ✔ Connected Power BI directly to Gold Layer tables
+
 ✔ Developed executive-level retail intelligence dashboard
+
 
 
 ---
