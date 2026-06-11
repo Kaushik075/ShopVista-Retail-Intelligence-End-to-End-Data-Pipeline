@@ -27,6 +27,12 @@ Key Highlights :
 
 ---
 
+# Azure Resource 
+
+
+---
+
+
 # Azure Data Lake 
 
 <img width="637" height="659" alt="Image" src="https://github.com/user-attachments/assets/55ca40cf-0640-41b4-a80d-d15c4bbe424e" />
@@ -36,11 +42,14 @@ er g4wersf
 
 ---
 
-Medallion Architecture - Data Layers [Bronze & Silver]
+# Medallion Architecture - Data Layers [Bronze & Silver]
+<img width="6000" height="3375" alt="Image" src="https://github.com/user-attachments/assets/0ae52826-7ef8-4a78-afb0-991bee31ec81" />
 
 
 
+---
 
+# Medallion Architecture - Gold Data Layer
 
 
 
