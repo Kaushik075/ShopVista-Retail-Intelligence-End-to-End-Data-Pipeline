@@ -42,6 +42,15 @@ er g4wersf
 
 ---
 
+# Storage Account 
+<img width="1623" height="903" alt="Image" src="https://github.com/user-attachments/assets/94617bf9-77d5-48f5-80c5-e6b5e880f597" />
+
+--- 
+
+# SQL Warehouse 
+
+
+
 # Medallion Architecture - Data Layers [Bronze & Silver]
 <img width="6000" height="3375" alt="Image" src="https://github.com/user-attachments/assets/0ae52826-7ef8-4a78-afb0-991bee31ec81" />
 
@@ -53,6 +62,17 @@ er g4wersf
 
 <img width="6000" height="3375" alt="Image" src="https://github.com/user-attachments/assets/48fe2fcb-97b3-4eb8-9bea-929a5326df6e" />
 
+
+
+---
+
+# Job Orchestration & Automation
+# Daily Refresh Pipeline
+
+
+---
+
+# Analytics & Report 
 
 
 
