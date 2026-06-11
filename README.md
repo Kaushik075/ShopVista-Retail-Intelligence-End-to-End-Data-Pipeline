@@ -5,7 +5,7 @@
 
 
 
-Doc : [shopvista_scoper_of_work.pdf](https://github.com/user-attachments/files/28826017/shopvista_scoper_of_work.pdf)
+Doc : [shopvista_scope_of_work.pdf](https://github.com/user-attachments/files/28826049/shopvista_scope_of_work.pdf)
 
 ---
 
