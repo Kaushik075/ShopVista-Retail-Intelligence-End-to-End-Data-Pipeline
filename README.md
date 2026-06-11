@@ -22,29 +22,6 @@ Key Objectives
 
 Doc : [shopvista_scope_of_work.pdf](https://github.com/user-attachments/files/28826049/shopvista_scope_of_work.pdf)
 
----
-
-# Project Outcomes
-
-Business Impact --
-
-✔ Eliminated manual data consolidation
-
-✔ Reduced reporting turnaround time
-
-✔ Established a centralized source of truth
-
-✔ Improved reporting accuracy
-
-✔ Enabled faster business decision-making
-
-✔ Built a scalable cloud data platform for future growth
-
-The ShopVista Retail Intelligence Platform demonstrates how modern cloud technologies can transform fragmented operational data into a reliable and scalable analytics ecosystem
-
-
-
-
 
 ---
 
@@ -97,21 +74,24 @@ This architecture provides scalability, governance, automation, and high-perform
 ---
 
 .
-# Key Achievements :
+# Project Outcomes
 
-✔ Built Bronze, Silver and Gold data layers
+Business Impact --
 
-✔ Processed raw retail data using PySpark ETL pipelines
+✔ Eliminated manual data consolidation
 
-✔ Implemented Medallion Architecture in Databricks
+✔ Reduced reporting turnaround time
 
-✔ Automated daily refresh workflows
+✔ Established a centralized source of truth
 
-✔ Created dimensional and fact tables for analytics
+✔ Improved reporting accuracy
 
-✔ Connected Power BI directly to Gold Layer tables
+✔ Enabled faster business decision-making
 
-✔ Developed executive-level retail intelligence dashboard
+✔ Built a scalable cloud data platform for future growth
+
+The ShopVista Retail Intelligence Platform demonstrates how modern cloud technologies can transform fragmented operational data into a reliable and scalable analytics ecosystem
+
 
 
 
