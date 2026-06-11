@@ -1,10 +1,6 @@
 # ShopVista-Retail-Intelligence-End-to-End-Data-Pipeline [Data Engineering using Spark & Azure Databricks]
 
-End-to-End Data Pipeline using Azure Databricks, PySpark & Power BI
-
-ShopVista is a rapidly growing e-commerce company that generates data across multiple operational systems including orders, shipments, returns, customers, products, categories, brands, and date dimensions. As the business expanded, reporting became fragmented across files and systems, making it difficult to generate timely insights and maintain a single source of truth.
-
-To solve this challenge, an end-to-end modern data platform was designed and implemented on Microsoft Azure using a Medallion Architecture (Bronze → Silver → Gold). The platform automates data ingestion, transformation, quality validation, and analytics delivery through Power BI dashboards.
+Reduced reporting complexity and established a centralized analytics foundation for retail operations. Designed and implemented an end-to-end Azure data platform using Azure Data Lake, Databricks, PySpark, and Power BI with a Medallion Architecture (Bronze → Silver → Gold)
 
 # Project Overview & Scope of Work
 
