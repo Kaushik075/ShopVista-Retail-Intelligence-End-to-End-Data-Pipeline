@@ -90,7 +90,10 @@ Centralized enterprise data lake used as the landing zone for raw source files. 
 
 
 # Storage Account 
-<img width="1623" height="903" alt="Image" src="https://github.com/user-attachments/assets/94617bf9-77d5-48f5-80c5-e6b5e880f597" />
+
+<img width="1623" height="599" alt="Image" src="https://github.com/user-attachments/assets/9e540a8b-af33-40d0-b881-1ff58ab66fb7" />
+
+
 
 
 
