@@ -20,17 +20,48 @@ Doc : [shopvista_scope_of_work.pdf](https://github.com/user-attachments/files/28
 ---
 
 
+
+
 # Pipeline Architecture 
 
 <img width="8107" height="3420" alt="Image" src="https://github.com/user-attachments/assets/7471c7fd-1432-4dd6-949b-4c95ce535d37" />
 
 Azure-based Medallion Architecture (Bronze → Silver → Gold) built using ADLS Gen2, Unity Catalog, and Azure Databricks. Raw e-commerce data is centralized in Azure Data Lake, transformed through ETL/ELT pipelines, and published as analytics-ready datasets for Power BI reporting.
 .
-Key Highlights :
+Key Achievements :
 
+✔ Built Bronze, Silver and Gold data layers
+
+✔ Processed raw retail data using PySpark ETL pipelines
+
+✔ Implemented Medallion Architecture in Databricks
+
+✔ Automated daily refresh workflows
+
+✔ Created dimensional and fact tables for analytics
+
+✔ Connected Power BI directly to Gold Layer tables
+
+✔ Developed executive-level retail intelligence dashboard
 
 
 ---
+
+
+## Tech Stack
+
+- Azure Data Lake Storage Gen2
+- Azure Databricks
+- Unity Catalog
+- PySpark
+- Delta Tables
+- Databricks Workflows
+- SQL Warehouse
+- Power BI Desktop
+
+ 
+ ---
+
 
 # Azure Resource 
 <img width="1641" height="670" alt="Image" src="https://github.com/user-attachments/assets/82e0b19e-f62c-49a5-bbe0-7fce665bf485" />
