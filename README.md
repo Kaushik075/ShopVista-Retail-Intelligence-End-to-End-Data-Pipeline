@@ -28,7 +28,7 @@ Key Highlights :
 ---
 
 # Azure Resource 
-
+<img width="1641" height="670" alt="Image" src="https://github.com/user-attachments/assets/82e0b19e-f62c-49a5-bbe0-7fce665bf485" />
 
 ---
 
@@ -51,7 +51,10 @@ er g4wersf
 
 # Medallion Architecture - Gold Data Layer
 
+<img width="6000" height="3375" alt="Image" src="https://github.com/user-attachments/assets/48fe2fcb-97b3-4eb8-9bea-929a5326df6e" />
 
+
+<img width="1641" height="670" alt="Image" src="https://github.com/user-attachments/assets/82e0b19e-f62c-49a5-bbe0-7fce665bf485" />
 
 
 
